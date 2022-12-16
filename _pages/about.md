@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Intern at Taibah University. Post Graduate Diploma CS at JMI. HPAIR' 23.
+subtitle: Research Intern at Taibah University. Post Graduate Diploma CS at JMI.
 
 profile:
   align: right
@@ -23,6 +23,7 @@ social: true  # includes social icons at the bottom of the page
 # ABOUT ME
 
 I'm a graduate of Aligarh Muslim University class of 2022. I earned a Bachelor of Science Honors in Mathematics and Statistics. Currently, I'm enrolled in a Post Graduate Diploma in Computer Science at Jamia Milia Islamia, New Delhi.
+
 My interests include software design and development, artificial intelligence, machine learning, computer vision, and natural language processing. I have a keen interest in learning new things and finding ways to adapt to various situations.
 
 I am looking for internship opportunities and would love to get in touch with you.
