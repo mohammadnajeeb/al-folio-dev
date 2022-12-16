@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Computer Science</p>
+    <p>Dept. of Computer Science</p>
     <p>Jamia Milia Islamia</p>
     <p>New Delhi, Delhi, India 110025</p>
 
