@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mohammad Najeeb
     - name: Date of Birth
-      value: 14th March 1879
+      value: 31st December 1999
     - name: Languages
-      value: English, German
+      value: English, Hindi, Urdu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Post Graduate Diploma in Computer Science
+      institution: Jamia Millia Islamia, New Delhi, India
+      year: 2023
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor's of Science Honors in Mathematics
+      institution: Aligarh Muslim University, Aligarh, India
+      year: 2022
       description:
         - Description 1.
         - Description 2.
@@ -31,11 +31,11 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
+    - title: Research Intern
+      institution: Taibah University, Saudi Arabia (Remote)
       year: 1933 - 1955
       description:
-        - Description 1.
+        - Working on a model which can be deployed on resource limited handhold/embedded devices for concrete crack detection.
         - Description 2.
         - title: Description 3.
           contents:

@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mohammadnajeeb
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mohammadnajeeb/jmi_automated_attendace_system
+  - mohammadnajeeb/arduino-based-ambient-light
+  - mohammadnajeeb/Climate-Change-Forecast-of-Delhi
+  - mohammadnajeeb/Olympia-Academia-Website
+  - mohammadnajeeb/Progressive-Web-App-Olympia-Academia
+  - mohammadnajeeb/amubsc
