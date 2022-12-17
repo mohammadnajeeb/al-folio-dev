@@ -47,7 +47,7 @@
       institution: Olympia Academia
       year: Sep 2019 - Present
       description:
-        - Co-founded Olympia Academia, AMU’s first mathematical sciences society. Contributed to bringing new members by creating a website and social media handles.
+        - Co-founded Olympia Academia, AMU's first mathematical sciences society. Contributed to bringing new members by creating a website and social media handles.
         - Skills- Process Improvement · Analytics · Team Management · Project Team Management · Web Content Writing · Web Development
 
 - title: Projects
@@ -56,7 +56,7 @@
     - title: <a href="https://github.com/mohammadnajeeb/jmi_automated_attendace_system">Automated Face Recognition Based Attendance System</a>
       year: 2022
       description: 
-        - Developed a facial recognition based attendance system which automatically marks attendance by identifying and verifying a person’s facial features to expedite the daily attendance process.
+        - Developed a facial recognition based attendance system which automatically marks attendance by identifying and verifying a person's facial features to expedite the daily attendance process.
         - Used Haar cascade Algorithm for face detection.
         - Deployed a Flask-based web application for web-based interaction.
 
