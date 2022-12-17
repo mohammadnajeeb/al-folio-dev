@@ -28,6 +28,8 @@ My interests include software design and development, artificial intelligence, m
 
 I am looking for internship opportunities and would love to get in touch with you.
 
+<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-brands/css/uicons-brands.css'>
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 <div class="row">
                                     <section class="clients col-md-12 graybg padding_45 padbot_45">
                                         <div class="section-title bottom_30"><span></span>
@@ -83,4 +85,3 @@ I am looking for internship opportunities and would love to get in touch with yo
                                                 style="color: black; font-size: small;">View more on GitHub ></a></div>
                                     </section>
                                 </div>
-                            </div>
