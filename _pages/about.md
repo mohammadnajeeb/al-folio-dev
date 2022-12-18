@@ -5,9 +5,9 @@ permalink: /
 subtitle: Research Intern at Taibah University. Post Graduate Diploma CS at JMI.
 
 profile:
-  align: center
+  align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Dept. of Computer Science</p>
     <p>Jamia Milia Islamia</p>
@@ -28,8 +28,6 @@ My interests include software design and development, artificial intelligence, m
 
 I am looking for internship opportunities and would love to get in touch with you.
 
-<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-brands/css/uicons-brands.css'>
-    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 <div class="row">
                                     <section class="clients col-md-12 graybg padding_45 padbot_45">
                                         <div class="section-title bottom_30"><span></span>
