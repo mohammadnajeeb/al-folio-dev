@@ -75,5 +75,4 @@ I am looking for internship opportunities and would love to get in touch with yo
                                             <button class="button"
                                                 style="background-color: #330000; color: #ff9a00;">ILLUSTRATOR</button>
                                         </div>
-                                        <br>
 <div><a href="https://github.com/mohammadnajeeb" target="_blank" style="color: black; font-size: small;">View more on GitHub ></a></div>
