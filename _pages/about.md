@@ -28,6 +28,7 @@ My interests include software design and development, artificial intelligence, m
 
 I am looking for internship opportunities and would love to get in touch with you.
 
+
 # SKILLS
 
 <div class="my_text" style="width: auto;">
