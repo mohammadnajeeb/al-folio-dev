@@ -26,6 +26,4 @@ I'm a graduate of Aligarh Muslim University class of 2022. I earned a Bachelor o
 
 My interests include software design and development, artificial intelligence, machine learning, computer vision, and natural language processing. I have a keen interest in learning new things and finding ways to adapt to various situations.
 
-I am looking for internship opportunities and would love to get in touch with you.
-
 # SKILLS
