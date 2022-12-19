@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-_"In 1970s, Computing was not a science. Thanks to the legends who made it is as important as Physics & Mathematics."_
+> _"In 1970s, Computing was not a science. Thanks to the legends who made it is as important as Physics & Mathematics."_
 
 # ABOUT ME
 
@@ -27,7 +27,6 @@ I'm a graduate of Aligarh Muslim University class of 2022. I earned a Bachelor o
 My interests include software design and development, artificial intelligence, machine learning, computer vision, and natural language processing. I have a keen interest in learning new things and finding ways to adapt to various situations.
 
 I am looking for internship opportunities and would love to get in touch with you.
-
 
 # SKILLS
 
@@ -72,7 +71,7 @@ I am looking for internship opportunities and would love to get in touch with yo
                                                     class="fa-solid fa-cloud"></i> GOOGLE
                                                 ANALYTICS</button>
                                             <button class="button" 
-                                                style="background-color: #001e36; color: #31a8ff;"></i> PHOTSHOP</button>
+                                                style="background-color: #001e36; color: #31a8ff;">PHOTSHOP</button>
                                             <button class="button"
                                                 style="background-color: #330000; color: #ff9a00;">ILLUSTRATOR</button>
                                         </div>
