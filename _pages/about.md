@@ -39,13 +39,13 @@ I am looking for internship opportunities and would love to get in touch with yo
 **Technologies/Frameworks:** *Google Analytics, Linux, GitHub, WordPress*  
 [*View more on GitHub >*](https://github.com/mohammadnajeeb)  
 
-- 👨‍💻 All of my projects are available at [https://mohammadnajeeb.github.io/#portfolio](https://mohammadnajeeb.github.io/#portfolio)
+- 👨‍💻 All of my projects are available at [https://mohammadnajeeb.github.io/projects](https://mohammadnajeeb.github.io/projects)
 
-- 📝 I regularly write articles on [https://mohammadnajeeb.github.io/#blog](https://mohammadnajeeb.github.io/#blog)
+- 📝 I regularly write articles on [https://mohammadnajeeb.github.io/blog](https://mohammadnajeeb.github.io/blog)
 
 - 📫 To reach me **mohammadnajeeb@live.com**
 
-- 📄 Know about my experiences [https://mohammadnajeeb.github.io/#resume](https://mohammadnajeeb.github.io/#resume)
+- 📄 Know about my experiences [https://mohammadnajeeb.github.io/cv](https://mohammadnajeeb.github.io/cv)
 
 &nbsp;
 # CONNECT WITH ME
