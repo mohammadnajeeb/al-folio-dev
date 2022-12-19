@@ -15,18 +15,14 @@
       institution: Jamia Millia Islamia, New Delhi, India
       year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - P.G.D.C.A
+        - C/C++, DBMS, Computer Network, Operating Systems, Computer Architecture, VB.NET, Shell Programming, Information Systems, Web Development.
     - title: Bachelor's of Science Honors in Mathematics
       institution: Aligarh Muslim University, Aligarh, India
       year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Bachelor of Science Honours in Mathematics with minors in Statistics and Physics
+        - Activities and societies- Olympia Academia, AMU OSS, AMU CSS, GDSC AMU, Cultural Education Club
 
 - title: Experience
   type: time_table
