@@ -7,108 +7,33 @@ nav: true
 nav_order: 5
 ---
 
-<head>
+<form action="https://getform.io/f/05dca5eb-0370-4003-a754-e09856673eba" method="POST">
+    <input type="text" name="name">
+    <input type="email" name="email">
+    <input type="text" name="message">
+    <!-- add hidden Honeypot input to prevent spams -->
+    <input type="hidden" name="_gotcha" style="display:none !important">
+    <!-- checkbox handle -->
+    <input type="checkbox" name="subscribe" value="yes" checked>
+    <input type="hidden" name="subscribe" value="no">
+    <!-- radio button handle -->
+    <input type="radio" name="gender" value="male" checked>
+    <input type="radio" name="gender" value="female">
+    <input type="radio" name="gender" value="other">
+    <!-- select field handle -->
+    <select name="work-experience">
+        <option value="one-year">0-1 years</option>
+        <option value="one-five-years">1-5 years</option>
+    </select>
+    <button type="submit">Send</button>
+</form>
 
-<!-- Favicon
-================================================== -->
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#ffc40d">
-<meta name="theme-color" content="#ffffff">
-
-<!-- CSS
-================================================== -->
-<link rel="stylesheet" href="css/bootstrap.css" />
-<link rel="stylesheet" href="css/reset.css" />
-<link rel="stylesheet" href="cubeportfolio/css/cubeportfolio.min.css" />
-<link rel="stylesheet" href="css/owl.theme.css" />
-<link rel="stylesheet" href="css/owl.carousel.css" />
-<link rel="stylesheet" href="css/style.css" />
-<link rel="stylesheet" href="css/colors/yellow.css" id="color" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
-
-<!-- Google Web fonts
-================================================== -->
-<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900" rel="stylesheet">
-
-<!-- Font Icons
-================================================== -->
-<link rel="stylesheet" href="icon-fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
-<link rel="stylesheet" href="icon-fonts/web-design/flaticon.css" />
-<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-brands/css/uicons-brands.css'>
-<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
-</head>
-
- <!-- Contact Page
-            ================================================== -->
-            <div id="contact">
-                <div class="row">
-                    <!-- Contact Form -->
-                    <section class="contact-form col-md-6 padding_30 padbot_45">
-                        <form class="site-form" action="https://formspree.io/f/xvodvlwl" method="post">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <input class="site-input" placeholder="Name" type="text">
-                                </div>
-                                <div class="col-md-6">
-                                    <input class="site-input" placeholder="E-mail" type="email"
-                                        name="_replyto">
-                                </div>
-                                <div class="col-md-12">
-                                    <textarea class="site-area" placeholder="Message"
-                                        name="message"></textarea>
-                                </div>
-                                <div class="col-md-12 top_15 bottom_30">
-                                    <button class="site-btn" type="submit">Submit</button>
-                                </div>
-                            </div>
-                        </form>
-                    </section>
-                    <!-- Contact Informations -->
-                    <section class="contact-info col-md-6 padding_30 padbot_45">
-                        <ul>
-                            <li><span>Address:</span> Department of Computer Science, Jamia Milia
-                                Islamia , New Delhi, Delhi, India 110025</li>
-                            <li><span>Phone:</span> +91 9557513425</li>
-                            <li><span>E-mail:</span> mohammadnajeeb@live.com</li>
-                            <li><span>Skype:</span> mohammadnajeeb_2</li>
-                            <li>
-                                <div class="social-icons top_15">
-                                    <a class="ln" href="https://www.linkedin.com/in/mohammadnajeeb/"
-                                        target="_blank"><i class="fa fa-linkedin"
-                                            aria-hidden="true"></i></a>
-                                    <a class="gh" href="https://github.com/mohammadnajeeb"
-                                        target="_blank"><i class="fa fa-github"
-                                            aria-hidden="true"></i></a>
-                                    <a class="tw" href="https://twitter.com/md__najeeb"
-                                        target="_blank"><i class="fa fa-twitter"
-                                            aria-hidden="true"></i></a>
-                                    <a class="ins" href="https://www.instagram.com/pixellements/"
-                                        target="_blank"><i class="fa fa-instagram"
-                                            aria-hidden="true"></i></a>
-                                    <a class="yt" href="https://www.youtube.com/techarchives"
-                                        target="_blank"><i class="fa fa-youtube"
-                                            aria-hidden="true"></i></a>
-                                </div>
-                            </li>
-                        </ul>
-                    </section>
-                    <!-- Contact Map -->
-                    <section class="contact-map col-md-12 top_15 bottom_15">
-                        <div class="section-title bottom_30"><span></span>
-                            <h2>Contact Map.</h2>
-                        </div>
-                        <iframe
-                            src="https://maps.google.com/maps?q=Deparment%20of%20Computer%20Science%20jamia&t=&z=15&ie=UTF8&iwloc=&output=embed"
-                            width="auto" height="350" style="border:0;" allowfullscreen=""
-                            loading="lazy"></iframe>
-                    </section>
-                </div>
-            </div>
-
-        </div><!-- Content - End -->
-    </div> <!-- col-md-12 end -->
-</div><!-- row end -->
+<!-- Contact Map -->
+<section class="contact-map col-md-12 top_15 bottom_15">
+    <div class="section-title bottom_30"><span></span>
+        <h2>Contact Map.</h2>
+    </div>
+    <iframe
+        src="https://maps.google.com/maps?q=Deparment%20of%20Computer%20Science%20jamia&t=&z=15&ie=UTF8&iwloc=&output=embed"
+        width="auto" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</section>
