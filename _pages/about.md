@@ -31,8 +31,33 @@ I am looking for internship opportunities and would love to get in touch with yo
 
 # SKILLS
 
-**Languages:** *Python, Java, C/C++, MATLAB, HTML/CSS, JavaScript, SQL*
-**Libraries:** *Tensorflow, Flask, Keras, NumPy, Pandas, Matplotlib, ScikitLearn*
-**Developer Tools:** *VS Code, Eclipse, Google Cloud Platform, Git*
-**Technologies/Frameworks:** *Google Analytics, Linux, GitHub, WordPress*
-[*View more on GitHub >*](https://github.com/mohammadnajeeb)
+**Languages:** *Python, Java, C/C++, MATLAB, HTML/CSS, JavaScript, SQL*  
+**Libraries:** *Tensorflow, Flask, Keras, NumPy, Pandas, Matplotlib, ScikitLearn*  
+**Developer Tools:** *VS Code, Eclipse, Google Cloud Platform, Git*  
+**Technologies/Frameworks:** *Google Analytics, Linux, GitHub, WordPress*  
+[*View more on GitHub >*](https://github.com/mohammadnajeeb)  
+
+- 👨‍💻 All of my projects are available at [https://mohammadnajeeb.github.io/#portfolio](https://mohammadnajeeb.github.io/#portfolio)
+
+- 📝 I regularly write articles on [https://mohammadnajeeb.github.io/#blog](https://mohammadnajeeb.github.io/#blog)
+
+- 📫 To reach me **mohammadnajeeb@live.com**
+
+- 📄 Know about my experiences [https://mohammadnajeeb.github.io/#resume](https://mohammadnajeeb.github.io/#resume)
+
+# CONNECT WITH ME
+<p align="left">
+<a href="https://twitter.com/md__najeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md__najeeb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammadnajeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadnajeeb" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mohammad-najeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad-najeeb" height="30" width="40" /></a>
+<a href="https://kaggle.com/mohammadnajeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammadnajeeb" height="30" width="40" /></a>
+<a href="https://fb.com/pixellements" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pixellements" height="30" width="40" /></a>
+<a href="https://instagram.com/pixellements" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pixellements" height="30" width="40" /></a>
+<a href="https://medium.com/@mdnajeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mdnajeeb" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/techarchives" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techarchives" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mohammadnajeeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohammadnajeeb" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mohammadnajeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammadnajeeb" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mohammadnajeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammadnajeeb" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/mohammadnajeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mohammadnajeeb" height="30" width="40" /></a>
+<a href="https://discord.gg/7615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7615" height="30" width="40" /></a>
+</p>
