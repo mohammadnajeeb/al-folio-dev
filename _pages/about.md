@@ -21,9 +21,18 @@ social: false # includes social icons at the bottom of the page
 _"In 1970s, Computing was not a science. Thanks to the legends who made it is as important as Physics & Mathematics."_
 
 # ABOUT ME
-
+ 
 I'm a graduate of Aligarh Muslim University class of 2022. I earned a Bachelor of Science Honors in Mathematics and Statistics. Currently, I'm enrolled in a Post Graduate Diploma in Computer Science at Jamia Milia Islamia, New Delhi.
 
 My interests include software design and development, artificial intelligence, machine learning, computer vision, and natural language processing. I have a keen interest in learning new things and finding ways to adapt to various situations.
 
+I am looking for internship opportunities and would love to get in touch with you.   
+
+
 # SKILLS
+
+**Languages:** *Python, Java, C/C++, MATLAB, HTML/CSS, JavaScript, SQL*
+**Libraries:** *Tensorflow, Flask, Keras, NumPy, Pandas, Matplotlib, ScikitLearn*
+**Developer Tools:** *VS Code, Eclipse, Google Cloud Platform, Git*
+**Technologies/Frameworks:** *Google Analytics, Linux, GitHub, WordPress*
+[*View more on GitHub >*](https://github.com/mohammadnajeeb)
