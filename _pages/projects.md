@@ -2,7 +2,8 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: There are a few of my projects listed below that you might be interested in checking out. In addition to working on a few projects, I also have many ideas just waiting to be put into action.
+
 nav: true
 nav_order: 2
 display_categories: [work, fun]
