@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: Solving the world's problems one line of code at a time 🌍.
 nav: true
 nav_order: 3

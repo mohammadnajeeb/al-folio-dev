@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Research Intern at Taibah University. Post Graduate Diploma CS at JMI.
 
