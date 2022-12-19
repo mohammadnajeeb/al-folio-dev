@@ -18,8 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+&nbsp;
 _"In 1970s, Computing was not a science. Thanks to the legends who made it is as important as Physics & Mathematics."_
 
+&nbsp;
 # ABOUT ME
  
 I'm a graduate of Aligarh Muslim University class of 2022. I earned a Bachelor of Science Honors in Mathematics and Statistics. Currently, I'm enrolled in a Post Graduate Diploma in Computer Science at Jamia Milia Islamia, New Delhi.
@@ -28,12 +30,12 @@ My interests include software design and development, artificial intelligence, m
 
 I am looking for internship opportunities and would love to get in touch with you.   
 
-
+&nbsp;
 # SKILLS
 
 **Languages:** *Python, Java, C/C++, MATLAB, HTML/CSS, JavaScript, SQL*  
-**Libraries:** *Tensorflow, Flask, Keras, NumPy, Pandas, Matplotlib, ScikitLearn*  
-**Developer Tools:** *VS Code, Eclipse, Google Cloud Platform, Git*  
+**Libraries:** *Tensorflow, PyTorch, Flask, Keras, NumPy, Pandas, Matplotlib, ScikitLearn*  
+**Developer Tools:** *VS Code, Eclipse, Google Cloud Platform, Git*, LaTeX  
 **Technologies/Frameworks:** *Google Analytics, Linux, GitHub, WordPress*  
 [*View more on GitHub >*](https://github.com/mohammadnajeeb)  
 
@@ -45,7 +47,9 @@ I am looking for internship opportunities and would love to get in touch with yo
 
 - 📄 Know about my experiences [https://mohammadnajeeb.github.io/#resume](https://mohammadnajeeb.github.io/#resume)
 
+&nbsp;
 # CONNECT WITH ME
+
 <p align="left">
 <a href="https://twitter.com/md__najeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md__najeeb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammadnajeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadnajeeb" height="30" width="40" /></a>
